@@ -7,9 +7,9 @@ The System Usability Scale (SUS) was used to assess the usabil-ity, using a 5-po
 Participants underwent usability as-sessment using the developed assessments: User Satisfaction Improvement, Spatial Efficiency, and ICT-Integrated Safety and Convenience Systems evaluations.
 
 1. The System Usability Scale (SUS)
-2. User Satisfaction Improvement
-3. Spatial Efficiency
-4. ICT-Integrated Safety and Convenience Systems evaluations
+2. User Satisfaction Improvement (IU)
+3. Spatial Efficiency (SE)
+4. ICT-Integrated Safety and Convenience Systems evaluations (SC)
 
 # User value
 To compare user value, User value measurement was structured into 10 sub-value constructs based on prior research (Park and Han, 2018; Schwartz and Bilsky, 1987).
@@ -27,6 +27,6 @@ All scores were expressed using a 10-point Likert scale.
 9. Benevolence
 10. Universalism
 * Each of the 10 sub-value structures consists of score evaluations for Q1. Value pursuit and Q2. Value fulfillment after riding a power wheelchair.
-Q1. I tend to seek this value. *Value pursuit*
-Q2.The electric wheel-chair satisfy this value for me. *Value fulfillment*
+Q1. *Value pursuit* I tend to seek this value. 
+Q2. *Value fulfillment* The electric wheel-chair satisfy this value for me. 
 
