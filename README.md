@@ -2,12 +2,12 @@
 Exploring usability and user value of the Electric Powered Wheelchair (EPW). 
 The following is a detailed description of the usability and user value assessment questionnaires used in this study.
 
-# Usability Evaluation
+## Usability Evaluation
 For usability evaluation, all evaluations were conducted after participants completed the EPW driving task.
 The System Usability Scale (SUS) was used to assess the usability, using a 5-point Likert scale (Brooke,1996).
 Other assessment using the developed assessments: User Satisfaction Improvement, Spatial Efficiency, and ICT-Integrated Safety and Convenience Systems evaluations.
 
-## The System Usability Scale (SUS)
+### The System Usability Scale (SUS)
 |Number|Key words|Quesionnaire|
 |-----|-----|-----|
 |1|Frequency|LearningI think that I would like to use this system frequently|
@@ -26,7 +26,7 @@ Other assessment using the developed assessments: User Satisfaction Improvement,
 * For items 2,4,6,8 and 10, the contribution is 5 minus the scale position.
 * Multiply the sum of the scores by 2.5 to obtain the overall value of SU.
 
-## User Satisfaction Improvement (IU)
+### User Satisfaction Improvement (IU)
 |Number|Key words|Quesionnaire|
 |-----|-----|-----|
 |1|Versatility|I can use it in various situations and environments|
@@ -34,7 +34,7 @@ Other assessment using the developed assessments: User Satisfaction Improvement,
 |3|Accessibility|Various users with different physical conditions can use it|
 * Rate all items on a scale of 1 to 5, from strongly disagree to strongly agree.
 
-## Spatial Efficiency (SE)
+### Spatial Efficiency (SE)
 |Number|Key words|Quesionnaire|
 |-----|-----|-----|
 |1|Stability|I can use it stably in various postures|
@@ -42,7 +42,7 @@ Other assessment using the developed assessments: User Satisfaction Improvement,
 |3|Usability|It is usable in narrow spaces (e.g., in an elevator)|
 * Rate all items on a scale of 1 to 5, from strongly disagree to strongly agree.
 
-## ICT-Integrated Safety and Convenience Systems evaluations (SC)
+### ICT-Integrated Safety and Convenience Systems evaluations (SC)
 |Number|Key words|Quesionnaire|
 |-----|-----|-----|
 |1|Trustworthiness|This device instills trust and reliability|
