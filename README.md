@@ -8,7 +8,7 @@ The System Usability Scale (SUS) was used to assess the usability, using a 5-poi
 Other assessment using the developed assessments: User Satisfaction Improvement, Spatial Efficiency, and ICT-Integrated Safety and Convenience Systems evaluations.
 
 ## The System Usability Scale (SUS)
-|Number|Key words|Quesionnaire
+|Number|Key words|Quesionnaire|
 |-----|-----|-----|
 |1|Frequency|LearningI think that I would like to use this system frequently|
 |2|Complexity|I found the system unnecessarily complex|
@@ -26,9 +26,30 @@ Other assessment using the developed assessments: User Satisfaction Improvement,
 * For items 2,4,6,8 and 10, the contribution is 5 minus the scale position.
 * Multiply the sum of the scores by 2.5 to obtain the overall value of SU.
 
-2. User Satisfaction Improvement (IU)
-3. Spatial Efficiency (SE)
-6. ICT-Integrated Safety and Convenience Systems evaluations (SC)
+## User Satisfaction Improvement (IU)
+|Number|Key words|Quesionnaire|
+|-----|-----|-----|
+|1|Versatility|I can use it in various situations and environments|
+|2|Simplicity|The operation method is easy|
+|3|Accessibility|Various users with different physical conditions can use it|
+* Rate all items on a scale of 1 to 5, from strongly disagree to strongly agree.
+
+## Spatial Efficiency (SE)
+|Number|Key words|Quesionnaire|
+|-----|-----|-----|
+|1|Stability|I can use it stably in various postures|
+|2|Portability|It is easy to carry (e.g., for placing in a vehicle)|
+|3|Usability|It is usable in narrow spaces (e.g., in an elevator)|
+* Rate all items on a scale of 1 to 5, from strongly disagree to strongly agree.
+
+## ICT-Integrated Safety and Convenience Systems evaluations (SC)
+|Number|Key words|Quesionnaire|
+|-----|-----|-----|
+|1|Trustworthiness|This device instills trust and reliability|
+|2|Recoverability|This device is easy to recover from malfunctions or misuse|
+|3|Feedback|This device provides appropriate feedback for interaction|
+* Rate all items on a scale of 1 to 5, from strongly disagree to strongly agree.
+
 
 # User value
 To compare user value, user value measurement was structured into 10 sub-value constructs based on prior research (Park and Han, 2018; Schwartz and Bilsky, 1987).
