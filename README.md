@@ -1,5 +1,6 @@
 # electric-powered-wheelchair
 Exploring usability and user value of the Electric Powered Wheelchair (EPW). 
+The following is a detailed description of the usability and user value assessment questionnaires used in this study.
 
 # Usability Evaluation
 For usability evaluation, all evaluations were conducted after participants completed the EPW driving task.
