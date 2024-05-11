@@ -19,7 +19,11 @@ Other assessment using the developed assessments: User Satisfaction Improvement,
 |8|Cumbersome|I found the system very cumbersome to use|
 |9|Confidence|I felt very confident using the system|
 |10|Learning|I needed to learn a lot of things before I could get going with this system|
-
+* To calculate the SUS score, first sum the score contributions from each item.
+* Each item's score contribution will range from 0 to 4.
+* For items 1,3,5,7,and 9 the score contribution is the scale position minus 1.
+* For items 2,4,6,8 and 10, the contribution is 5 minus the scale position.
+* Multiply the sum of the scores by 2.5 to obtain the overall value of SU.
 
 2. User Satisfaction Improvement (IU)
 3. Spatial Efficiency (SE)
