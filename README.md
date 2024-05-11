@@ -9,16 +9,16 @@ Other assessment using the developed assessments: User Satisfaction Improvement,
 ## The System Usability Scale (SUS)
 |Number|Key words|Quesionnaire
 |-----|-----|-----|
-|1|I think that I would like to use this system frequently|
-|2|I found the system unnecessarily complex|
-|3|I thought the system was easy to use|
-|4|I think that I would need the support of a technical person to be able 5. to use this system|
-|5|I found the various functions in this system were well integrated|
-|6|I thought there was too much inconsistency in this system|
-|7|I would imagine that most people would learn to use this system very quickly|
-|8|I found the system very cumbersome to use|
-|9|I felt very confident using the system|
-|10|I needed to learn a lot of things before I could get going with this system|
+|1|Frequency|LearningI think that I would like to use this system frequently|
+|2|Complexity|I found the system unnecessarily complex|
+|3|Ease of Use|I thought the system was easy to use|
+|4|Technical Support|I think that I would need the support of a technical person to be able 5. to use this system|
+|5|Integration|I found the various functions in this system were well integrated|
+|6|Consistency|I thought there was too much inconsistency in this system|
+|7|Learning Curve|I would imagine that most people would learn to use this system very quickly|
+|8|Cumbersome|I found the system very cumbersome to use|
+|9|Confidence|I felt very confident using the system|
+|10|Learning|I needed to learn a lot of things before I could get going with this system|
 
 
 2. User Satisfaction Improvement (IU)
