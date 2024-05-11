@@ -27,6 +27,6 @@ All scores were expressed using a 10-point Likert scale.
 9. Benevolence
 10. Universalism
 * Each of the 10 sub-value structures consists of score evaluations for Q1. Value pursuit and Q2. Value fulfillment after riding a power wheelchair.
-Q1. I tend to seek this value. _Value pursuit
-Q2.The electric wheel-chair satisfy this value for me. _Value fulfillment
+Q1. I tend to seek this value. *Value pursuit
+Q2.The electric wheel-chair satisfy this value for me. *Value fulfillment
 
