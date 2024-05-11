@@ -70,6 +70,6 @@ All scores were expressed using a 10-point Likert scale.
 |10|Self-transcendence|Universalism|Minded, beautiful world, social justice, peace seasons, equality, wisdom, unity with nature|
 
 * Each of the 10 sub-value structures consists of score evaluations for Q1. Value pursuit and Q2. Value fulfillment after riding a power wheelchair.
-Q1. *Value pursuit* I tend to seek this value. 
-Q2. *Value fulfillment* The electric wheel-chair satisfy this value for me. 
+* Q1. *Value pursuit* I tend to seek this value. 
+* Q2. *Value fulfillment* The electric wheel-chair satisfy this value for me. 
 
