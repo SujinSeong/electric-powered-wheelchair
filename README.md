@@ -56,8 +56,8 @@ To compare user value, user value measurement was structured into 10 sub-value c
 These 10 sub-value structures were categorized into 4 dimensions (i.e. Openness to change, Self-enhancement, Conservation, Self-transcendence).
 All scores were expressed using a 10-point Likert scale.
 
-|Number|Dimension|Sub-value structures|Definition|Question
-|-----|-----|-----|-----|-----|
+|Number|Dimension|Sub-value structures|Definition|
+|-----|-----|-----|-----|
 |1|Openness to change|Self-direction|Creativity, freedom, curiosity, independent, choosing one’s own goals|
 |2|Openness to change|Stimulation|Bold, colorful life, exciting life|
 |3|Self-enhancement|Hedonism|Enjoying life, self-indulgence|
