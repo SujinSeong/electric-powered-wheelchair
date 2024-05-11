@@ -10,7 +10,7 @@ Other assessment using the developed assessments: User Satisfaction Improvement,
 ### The System Usability Scale (SUS)
 |Number|Key words|Question|
 |-----|-----|-----|
-|1|Frequency|LearningI think that I would like to use this system frequently|
+|1|Frequency|I think that I would like to use this system frequently|
 |2|Complexity|I found the system unnecessarily complex|
 |3|Ease of Use|I thought the system was easy to use|
 |4|Technical Support|I think that I would need the support of a technical person to be able 5. to use this system|
