@@ -58,16 +58,16 @@ All scores were expressed using a 10-point Likert scale.
 
 |Number|Dimension|Sub-value structures|Definition|Question
 |-----|-----|-----|-----|-----|
-|1|Openness to change|Self-direction|Creativity, freedom, curiosity, independent, choosing one’s own goals||
-|2|^|Stimulation|Bold, colorful life, exciting life|^|
-|3|Self-enhancement|Hedonism|Enjoying life, self-indulgence|^|
-|4|^|Achievement|Successful competent, ambitious, influential|^|
-|5|^|Power|Social power, wealth, authority|^|
-|6|Conservation|Security|National security, family security, social order, clean, returning favor|^|
-|7|^|Conformity|Obedient, respectful of parents and elders, self-discipline, courtesy|^|
-|8|^|Tradition|Respect for tradition, moderate, accepting my share in life, humble, devout|^|
-|9|Self-transcendence|Benevolence|Helpful, honest, forgiving, faithful, responsible|^|
-|10|^|Universalism|Minded, beautiful world, social justice, peace seasons, equality, wisdom, unity with nature|^|
+|1|Openness to change|Self-direction|Creativity, freedom, curiosity, independent, choosing one’s own goals|
+|2|Openness to change|Stimulation|Bold, colorful life, exciting life|
+|3|Self-enhancement|Hedonism|Enjoying life, self-indulgence|
+|4|Self-enhancement|Achievement|Successful competent, ambitious, influential|
+|5|Self-enhancement|Power|Social power, wealth, authority|
+|6|Conservation|Security|National security, family security, social order, clean, returning favor|
+|7|Conservation|Conformity|Obedient, respectful of parents and elders, self-discipline, courtesy|
+|8|Conservation|Tradition|Respect for tradition, moderate, accepting my share in life, humble, devout|
+|9|Self-transcendence|Benevolence|Helpful, honest, forgiving, faithful, responsible|
+|10|Self-transcendence|Universalism|Minded, beautiful world, social justice, peace seasons, equality, wisdom, unity with nature|
 
 * Each of the 10 sub-value structures consists of score evaluations for Q1. Value pursuit and Q2. Value fulfillment after riding a power wheelchair.
 Q1. *Value pursuit* I tend to seek this value. 
