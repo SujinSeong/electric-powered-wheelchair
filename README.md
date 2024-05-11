@@ -3,8 +3,8 @@ Exploring usability and user value of the Electric Powered Wheelchair (EPW).
 
 # Usability Evaluation
 For usability evaluation, all evaluations were conducted after participants completed the EPW driving task.
-The System Usability Scale (SUS) was used to assess the usabil-ity, using a 5-point Likert scale (Brooke,1996).
-Participants underwent usability as-sessment using the developed assessments: User Satisfaction Improvement, Spatial Efficiency, and ICT-Integrated Safety and Convenience Systems evaluations.
+The System Usability Scale (SUS) was used to assess the usability, using a 5-point Likert scale (Brooke,1996).
+Other assessment using the developed assessments: User Satisfaction Improvement, Spatial Efficiency, and ICT-Integrated Safety and Convenience Systems evaluations.
 
 1. The System Usability Scale (SUS)
 2. User Satisfaction Improvement (IU)
@@ -12,7 +12,7 @@ Participants underwent usability as-sessment using the developed assessments: Us
 4. ICT-Integrated Safety and Convenience Systems evaluations (SC)
 
 # User value
-To compare user value, User value measurement was structured into 10 sub-value constructs based on prior research (Park and Han, 2018; Schwartz and Bilsky, 1987).
+To compare user value, user value measurement was structured into 10 sub-value constructs based on prior research (Park and Han, 2018; Schwartz and Bilsky, 1987).
 These 10 sub-value structures were categorized into 4 dimensions (i.e. Openness to change, Self-enhancement, Conservation, Self-transcendence).
 All scores were expressed using a 10-point Likert scale.
 
