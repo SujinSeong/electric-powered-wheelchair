@@ -59,8 +59,8 @@ All scores were expressed using a 10-point Likert scale.
 |Number|Dimension|Sub-value structures|Definition|
 |-----|-----|-----|-----|
 |1|Self-enhancement|Power|Social power, wealth, authority|
-|2||Achievement|Successful competent, ambitious, influential|
-|3||Hedonism|Enjoying life, self-indulgence|
+|2|Self-enhancement|Achievement|Successful competent, ambitious, influential|
+|3|Self-enhancement|Hedonism|Enjoying life, self-indulgence|
 |4|Openness to change|Stimulation|Bold, colorful life, exciting life|
 |5|Openness to change|Self-direction|Creativity, freedom, curiosity, independent, choosing one’s own goals|
 |6|Self-transcendence|Universalism|Minded, beautiful world, social justice, peace seasons, equality, wisdom, unity with nature|
