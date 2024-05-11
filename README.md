@@ -6,10 +6,24 @@ For usability evaluation, all evaluations were conducted after participants comp
 The System Usability Scale (SUS) was used to assess the usability, using a 5-point Likert scale (Brooke,1996).
 Other assessment using the developed assessments: User Satisfaction Improvement, Spatial Efficiency, and ICT-Integrated Safety and Convenience Systems evaluations.
 
-1. The System Usability Scale (SUS)
+## The System Usability Scale (SUS)
+|Number|Key words|Quesionnaire
+|-----|-----|-----|
+|1|I think that I would like to use this system frequently|
+|2|I found the system unnecessarily complex|
+|3|I thought the system was easy to use|
+|4|I think that I would need the support of a technical person to be able 5. to use this system|
+|5|I found the various functions in this system were well integrated|
+|6|I thought there was too much inconsistency in this system|
+|7|I would imagine that most people would learn to use this system very quickly|
+|8|I found the system very cumbersome to use|
+|9|I felt very confident using the system|
+|10|I needed to learn a lot of things before I could get going with this system|
+
+
 2. User Satisfaction Improvement (IU)
 3. Spatial Efficiency (SE)
-4. ICT-Integrated Safety and Convenience Systems evaluations (SC)
+6. ICT-Integrated Safety and Convenience Systems evaluations (SC)
 
 # User value
 To compare user value, user value measurement was structured into 10 sub-value constructs based on prior research (Park and Han, 2018; Schwartz and Bilsky, 1987).
