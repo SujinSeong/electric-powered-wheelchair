@@ -1,7 +1,8 @@
 # Electric-Powered-Wheelchair (EPW)
 Exploring usability and user value of the Electric Powered Wheelchair. 
 The following is a detailed description of the usability and user value assessment questionnaires used in this study.
-
+The specific characteristics are as follows
+The device is rechargeable and can move up to 16 kilometers or more on a single charge. The platform is equipped with a stepping stool to help the user step on board. The angle of the backrest is adjustable, and the arm rests can be adjusted in height and angle. The device has a function as a cell phone holder, and it works in connection with a cell phone app. In this case, it is available with a dedicated app that can be linked to navigation and security cameras, as well as emergency rescue calls or location transmission when in danger. Moreover, it is equipped with a rear sensing sensor that functions as an alarm bell when there exists an obstacle behind. 
 ## Usability Evaluation
 For usability evaluation, all evaluations were conducted after participants completed the EPW driving task.
 The System Usability Scale (SUS) was used to assess the usability, using a 5-point Likert scale (Brooke,1996).
