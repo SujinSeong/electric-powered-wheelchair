@@ -1,4 +1,4 @@
-![image](https://github.com/SujinSeong/electric-powered-wheelchair/assets/144642945/251ac60c-fa5b-4905-9ec9-2bb46e2b7951)# Electric-Powered-Wheelchair (EPW)
+# Electric-Powered-Wheelchair (EPW)
 Exploring usability and user value of the Electric Powered Wheelchair. 
 The following is a detailed description of the specific characteristics and measurements in this study.
 ----------
